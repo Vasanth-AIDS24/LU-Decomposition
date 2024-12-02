@@ -32,7 +32,8 @@ RegisterNumber:
 ```
 
 ## Output:
-![lu decomposition]()
+![lu decomposition]()![Screenshot from 2024-12-02 20-31-57](https://github.com/user-attachments/assets/93ff1aeb-7611-465c-8290-6ae30d72a46f)
+
 
 
 ## Result:
